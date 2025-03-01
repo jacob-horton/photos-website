@@ -1,0 +1,7 @@
+baseURL = 'https://photos.jacobhorton.dev/'
+languageCode = 'en-gb'
+title = 'Jacob Horton Photography'
+
+[module]
+[[module.imports]]
+path = "github.com/nicokaiser/hugo-theme-gallery/v4"

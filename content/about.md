@@ -4,7 +4,7 @@ rss_ignore: true
 title: About
 menu:
   main:
-    weight: 90
+    weight: 9999
 draft: true
 ---
 
